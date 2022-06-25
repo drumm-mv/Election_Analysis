@@ -39,7 +39,7 @@ The final analysis of the election shows that:
 - The winner of the election was:
   - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
-![](Resources/Election_results_output.png | width="100")
+![](Resources/Election_results_output.png)
 
 ## Summary
 With some minor changes the provided script could be utilized for any election. Below you will find a two optional features that could faciltate this update:
