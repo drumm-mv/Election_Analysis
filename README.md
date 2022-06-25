@@ -40,7 +40,7 @@ The final analysis of the election shows that:
 - The winner of the election was:
   - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
-<img src="https://github.com/drumm-mv/Election_Analysis/blob/bc0854c34a1d3b4088ed8969ed0da6f7a0c5cf45/Resources/Election_results_terminal_output.png" width=30% height=30%> <img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=50% height=50%>
+<img src="https://github.com/drumm-mv/Election_Analysis/blob/bc0854c34a1d3b4088ed8969ed0da6f7a0c5cf45/Resources/Election_results_terminal_output.png" width=30% height=30%> <img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=45% height=45%>
 
 ### Proposal to Election Commission
 With some minor changes the provided script could be utilized for any election. Below you will find two optional features that could faciltate this update:
