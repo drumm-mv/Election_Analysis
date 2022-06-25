@@ -23,7 +23,8 @@ The Elections commision has requested additional data be provided in the analysi
 - Data Source: election_results.csv
 - Software: Python 3.7, Visual Studio Code, 1.68.1
 
-## Election Results Output
+## Summary
+### Election Results Output
 The final analysis of the election shows that:
 - There are "x" votes cast in the election.
 - The counties and their individual results were:
@@ -40,8 +41,9 @@ The final analysis of the election shows that:
   - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
 <img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=50% height=50%>
+<img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=50% height=50%>
 
-## Summary
+### Proposal to Election Commission
 With some minor changes the provided script could be utilized for any election. Below you will find two optional features that could faciltate this update:
 - The addition of selecting your input and output file names and locations through a GUI rather than a preset of hardcoded file names and locations.
-- Utilize the header record to determine index of specific field names
+- Utilize the header record to determine index(or location within data) of specific field names
