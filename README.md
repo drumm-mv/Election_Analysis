@@ -42,6 +42,6 @@ The final analysis of the election shows that:
 <img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=50% height=50%>
 
 ## Summary
-With some minor changes the provided script could be utilized for any election. Below you will find a two optional features that could faciltate this update:
+With some minor changes the provided script could be utilized for any election. Below you will find two optional features that could faciltate this update:
 - The addition of selecting your input and output file names and locations through a GUI rather than a preset of hardcoded file names and locations.
 - Utilize the header record to determine index of specific field names
