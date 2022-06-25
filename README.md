@@ -39,9 +39,9 @@ The final analysis of the election shows that:
 - The winner of the election was:
   - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
+
+
 ## Summary
 With some minor changes the provided script could be utilized for any election. Below you will find a two optional features that could faciltate this update:
-- The addition of selecting your input and output file names and locations through file selection GUI rather than a preset of hardcoded file names and locations.
+- The addition of selecting your input and output file names and locations through a GUI rather than a preset of hardcoded file names and locations.
 - Utilize the header record to determine index of specific field names
-- 
-
