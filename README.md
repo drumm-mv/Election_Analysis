@@ -11,7 +11,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote.
 
 ### Update Overview
-The Elections commision has requested additional data be provided in the analysis above. For a complete audit they would like to include the voter turnout for each county, the percentage of votes from each base on total votes, and the county with the highest voter turnout. 
+The Elections commision has requested additional data be provided in the analysis above. For a complete audit they would like to include the voter turnout for each county, the percentage of votes from each county based on total votes, and the county with the highest voter turnout. 
 
 #### Continued from previous list
 6. Get a complete list of counties within the election_reults.csv.
