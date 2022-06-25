@@ -39,7 +39,7 @@ The final analysis of the election shows that:
 - The winner of the election was:
   - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
 
-![image](Resources/Election_results_output.png)
+<img src="https://github.com/drumm-mv/Election_Analysis/blob/62ef4612bb23cd1112f3ba9e568b2b8964d1e227/Resources/Election_results_output.png" width=50% height=50%>
 
 ## Summary
 With some minor changes the provided script could be utilized for any election. Below you will find a two optional features that could faciltate this update:
